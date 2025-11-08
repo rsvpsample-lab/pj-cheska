@@ -39,7 +39,7 @@ const RSVPSection = () => {
               data-testid="button-rsvp"
             >
               <a 
-                href="https://docs.google.com/forms/d/e/1FAIpQLSe15vjnpTmBOzz0x9c6Xg_JPyX1x7ayEoJdl1hpErcAOslXxw/viewform?usp=dialog" 
+                href="https://pj-cheska-rsvp.replit.app" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="relative inline-flex items-center justify-center w-full h-full z-10"
