@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Menu, X } from 'lucide-react';
+import logoImage from '@assets/image-removebg-preview (5)_1762663189800.png';
 
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -97,9 +98,12 @@ const Navigation = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <h2 className="text-xl font-display font-semibold text-primary-foreground">
-              P<span className="text-primary-foreground"> & </span>C
-            </h2>
+            <img 
+              src={logoImage} 
+              alt="Phil John & Cheska Wedding Logo" 
+              className="h-12 w-auto"
+              data-testid="img-logo"
+            />
           </div>
 
           {/* Desktop Navigation */}
