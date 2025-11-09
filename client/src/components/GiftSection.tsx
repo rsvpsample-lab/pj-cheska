@@ -2,6 +2,8 @@ import { Heart, Gift, Home } from 'lucide-react';
 import bdoQR from "@assets/gift-section_1762526627226.jpg";
 import gcashQR from "@assets/gift-section2_1762526627226.jpg";
 
+import gift22 from "@assets/gift22.jpg";
+
 const GiftSection = () => {
   return (
     <section className="py-20 px-4 bg-background relative overflow-hidden">
@@ -72,7 +74,7 @@ const GiftSection = () => {
               <h3 className="text-lg font-display font-semibold text-primary mb-4 text-center">BDO</h3>
               <div className="text-center mb-4">
                 <img 
-                  src={bdoQR}
+                  src={gift22}
                   alt="BDO Account Details"
                   className="w-full h-auto mx-auto object-contain"
                 />
