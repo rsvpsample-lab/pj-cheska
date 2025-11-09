@@ -29,7 +29,7 @@ const EntourageSection = () => {
             </div>
             <div>
               <h3 className="text-lg font-script italic text-primary mb-3 text-center">Maid of Honor</h3>
-              <p className="text-xs text-foreground text-center">MA. SHIELA MHICA CRUZ</p>
+              <p className="text-xs text-foreground text-center">MA. SHIELA MHICA HIANGAN</p>
             </div>
           </div>
 
