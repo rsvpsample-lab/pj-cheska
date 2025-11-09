@@ -59,7 +59,7 @@ app.use((req, res, next) => {
 
     // Use PORT environment variable for production (Cloud Run) or default to 5000 for development
     const port = process.env.PORT ? parseInt(process.env.PORT, 10) : 5000;
-    const host = process.env.NODE_ENV === 'production' ? '0.0.0.0' : 'localhost';
+    const host = '0.0.0.0';
     
     const serverInstance = server.listen(port, host)
     .on('listening', () => {
