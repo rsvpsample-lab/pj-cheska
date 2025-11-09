@@ -3,40 +3,40 @@ import { Clock, Camera, Coffee, Utensils, Music } from 'lucide-react';
 const TimelineSection = () => {
   const timelineEvents = [
     {
-      time: '2:30 PM',
-      event: 'Pagpasok sa loob ng Kapilya',
+      time: '3:30 PM',
+      event: 'Pagtanggap at Pagpapaupo ng Bisita',
       icon: Clock,
       description: 'Pagtanggap at paupo ng mga bisita'
     },
     {
-      time: '3:00 PM',
-      event: 'Simula ng Seremonya',
+      time: '4:00 PM',
+      event: 'Ceremony Proper',
       icon: Clock,
       description: 'Pagsisimula ng banal na seremonya'
     },
     {
-      time: '4:00 PM',
-      event: 'Meryenda at Pagkuha ng Litrato',
+      time: '5:30 PM',
+      event: 'Pictorial',
       icon: Camera,
       description: 'Pagkuha ng mga precious moments'
     },
     {
-      time: '5:00 PM',
-      event: 'Simula ng Programa, Palaro, Intermission Numbers',
-      icon: Music,
-      description: 'Mga palabas at kasiyahan'
-    },
-    {
       time: '6:00 PM',
-      event: 'Hapunan',
-      icon: Utensils,
-      description: 'Masarap na pagkain para sa lahat'
+      event: 'Cocktail',
+      icon: Coffee,
+      description: 'Oras para sa masasarap na inumin'
     },
     {
-      time: '8:00 PM',
-      event: 'Pagtatapos ng Programa',
+      time: '7:30 PM',
+      event: 'Program Proper',
       icon: Music,
-      description: 'Wakas ng pagdiriwang'
+      description: 'Simula ng programa at kasiyahan'
+    },
+    {
+      time: '9:30 PM',
+      event: 'End Of Program / Party Time',
+      icon: Music,
+      description: 'Wakas ng programa at simula ng party'
     }
   ];
 

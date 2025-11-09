@@ -40,6 +40,9 @@ const DressCodeSection = () => {
                 <h3 className="text-3xl font-display font-semibold text-primary mb-6">
                   PARA SA MGA BISITA
                 </h3>
+                <p className="text-lg font-medium text-foreground mb-4">
+                  Mangyaring magsuot ng <span className="font-semibold text-primary">formal attire</span>.
+                </p>
                 <p className="text-lg font-medium text-foreground mb-6">
                   Hinihikayat ang mga bisita na magsuot ng kulay mula sa aming wedding palette: Sage Green, Peachy Beige, Peach, Tan, Rust, at Brown
                 </p>
