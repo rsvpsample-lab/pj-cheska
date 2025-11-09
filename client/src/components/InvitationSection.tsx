@@ -41,7 +41,7 @@ const InvitationSection = () => {
             <p className="text-base text-foreground" style={{ fontFamily: '"Times New Roman", serif' }} data-testid="text-invitation-deadline">
               Mangyaring tumugon sa o bago pa ang
             </p>
-            <p className="text-lg font-normal text-foreground" style={{ fontFamily: '"Times New Roman", serif' }} data-testid="text-rsvp-date">January 15, 2026</p>
+            <p className="text-lg font-normal text-foreground" style={{ fontFamily: '"Times New Roman", serif' }} data-testid="text-rsvp-date">December 31, 2025</p>
           </div>
         </div>
 
