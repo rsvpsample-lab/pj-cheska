@@ -129,7 +129,7 @@ const EntourageSection = () => {
               <p>ENZO RAYS RIVERA</p>
               <p>MAIZELL RIY RAMIREZ</p>
               <p>MARCO RAFAEL NAVAL</p>
-              <p className="font-semibold text-primary my-3 text-xs">ring bearers</p>
+              <p className="font-semibold text-primary mt-6 mb-3 text-xs">ring bearers</p>
               <p>PRINCE ZOOMER CRUZ</p>
             </div>
           </div>
