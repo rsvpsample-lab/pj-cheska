@@ -28,9 +28,7 @@ const InvitationSection = () => {
           <div className="space-y-4 max-w-lg mx-auto mb-8">
             <div className="text-center space-y-2">
               <p className="text-3xl md:text-4xl lg:text-5xl font-script italic font-normal text-foreground" data-testid="text-wedding-date-detail">February 15, 2026 | 3:30 PM</p>
-              <p className="text-2xl md:text-3xl lg:text-4xl font-script italic font-normal text-foreground" data-testid="text-wedding-location">
-                Marag, Cavite
-              </p>
+              <p className="text-2xl md:text-3xl lg:text-4xl font-script italic font-normal text-foreground" data-testid="text-wedding-location">Alfonso, Cavite</p>
             </div>
           </div>
 
