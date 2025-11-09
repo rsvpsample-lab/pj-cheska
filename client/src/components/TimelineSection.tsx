@@ -28,7 +28,7 @@ const TimelineSection = () => {
     },
     {
       time: '7:30 PM',
-      event: 'Program Proper',
+      event: 'Program Proper and Dinner',
       icon: Music,
       description: 'Simula ng programa at kasiyahan'
     },
