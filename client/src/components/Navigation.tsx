@@ -3,6 +3,8 @@ import { Button } from '@/components/ui/button';
 import { Menu, X } from 'lucide-react';
 import logoImage from '@assets/image-removebg-preview (5)_1762663189800.png';
 
+import dsads from "@assets/dsads.png";
+
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [activeSection, setActiveSection] = useState('');
@@ -99,7 +101,7 @@ const Navigation = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <img 
-              src={logoImage} 
+              src={dsads} 
               alt="Phil John & Cheska Wedding Logo" 
               className="h-12 w-auto"
               data-testid="img-logo"
