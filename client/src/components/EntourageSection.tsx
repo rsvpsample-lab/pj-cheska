@@ -75,7 +75,7 @@ const EntourageSection = () => {
                 <p>MR. MICHAEL DESTURA</p>
                 <p>MR. MARK FERDINAND ABIOG</p>
                 <p>MR. RENE SUAREZ</p>
-                <p>MR. JOSE ROJIE LUCER</p>
+                <p>MR. JOSE ROJIE LUCERO</p>
               </div>
               <div className="space-y-1 text-[9px] text-foreground text-center">
                 <p>MS. ALPA OMEGA AQUINO</p>
