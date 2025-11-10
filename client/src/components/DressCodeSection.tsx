@@ -46,7 +46,7 @@ const DressCodeSection = () => {
                 <p className="text-lg font-medium text-foreground mb-4">
                   Hinihikayat ang mga bisita na magsuot ng kulay mula sa aming wedding palette: Sage Green, Peachy Beige, Peach, Tan, Rust, at Brown
                 </p>
-                <p className="text-base text-muted-foreground mb-6 italic">
+                <p className="text-base text-red-600 dark:text-red-500 mb-6 font-semibold">
                   Pakiusap na iwasan ang kasuotan na puti. Ilaan po natin ang kulay na ito para sa bride at groom.
                 </p>
                 <img 
